@@ -1,4 +1,3 @@
-Markdown
 # 🦯 AI Blind-Stick
 > An intelligent assistive mobility device combining real-time object detection and proximity sensing to empower the visually impaired.
 
