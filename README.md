@@ -56,6 +56,6 @@ The ultrasonic sensor measures the time-of-flight for sound waves. The system ca
 ---
 
 ## 📊 Performance Metrics
-- **Detection Accuracy:** ≥ 90% in tested environments.
+- **Detection Accuracy:** High accuracy in object detection.
 - **Sensor Precision:** High-reliability distance sensing with $\geq 99\%$ accuracy.
 - **Latency:** Optimized for real-time response using the YOLOv8n lightweight model.
