@@ -18,8 +18,8 @@
 
 static const char *TAG = "CAM_STREAM";
 
-#define WIFI_SSID "Vlad"
-#define WIFI_PASS "123456789"
+#define WIFI_SSID ""
+#define WIFI_PASS ""
 
 /* ================= WIFI ================= */
 
