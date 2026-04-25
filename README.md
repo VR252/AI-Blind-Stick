@@ -16,6 +16,9 @@ Traditional white canes fail to detect hanging obstacles or hazards beyond immed
 * **📶 Remote Processing:** Hybrid architecture that streams video from the ESP32 to a workstation for high-speed inference.
 
 ---
+<img width="658" height="465" alt="Screenshot 2026-04-25 163609" src="https://github.com/user-attachments/assets/5e4998bd-4ec0-47e0-b294-5374380c7ce0" />
+
+
 
 ## 🏗️ System Architecture
 
